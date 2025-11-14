@@ -19,7 +19,7 @@ app.use('/blogs', blogRoute);
 app.use('/', uploadRoute);
 
 app.get("/", (req, res) => {
-    res.render("home");
+    res.render("dashboard");
   });
 
   app.get("/signup", (req, res) => {
