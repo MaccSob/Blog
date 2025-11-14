@@ -1,1 +1,1 @@
-MongoDB, NodeJS, EJS, REST
+MongoDB, NodeJS, EJS, REST, BCrypt, Express.
