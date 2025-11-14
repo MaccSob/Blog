@@ -1,1 +1,1 @@
-Big Blog Api Project. REST. 
+MongoDB, NodeJS, EJS, REST, BCrypt, Express.
